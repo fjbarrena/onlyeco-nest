@@ -1,0 +1,14 @@
+{
+    "cipherKey": "b4ck&nBL4CK_Y€sAIMB492716279871239128379_Ññt",
+    "JWT_ID": "jsonwebtoken",
+    "JWT_KEY": "0nly3c0_T!t$s4nDM00z$r(T)",
+    "TRAVEL_IMAGE_FOLDER": "/opt/server/uploads/",
+    "MAIL_HOST": "smtp.gmail.com",
+    "MAIL_PORT": 587,
+    "MAIL_SECURE": false,
+    "MAIL_USERNAME": "mozart.mae@gmail.com",
+    "MAIL_PASSWORD": "n0tienen0tiene",
+    "HOTELBEDS_API_URL": "https://api.test.hotelbeds.com'",
+    "HOTELBEDS_API_KEY": "fzk98nzdg46cu9budw2wyd35",
+    "HOTELBEDS_SECRET": "ZJfVPHSkyK"
+}
